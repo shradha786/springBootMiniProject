@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹˜œü8åÏäÙ†1
+r
+java:S1128
+"PRemove this unused import 'com.amazonaws.services.dynamodbv2.document.DynamoDB'.(‰žýÃùÿÿÿÿ8®©³Ú†1
+z
+java:S1128"XRemove this unused import 'software.amazon.awssdk.auth.credentials.AwsBasicCredentials'.(Ø¾ªÝÿÿÿÿÿ8ã„³Ú†1
+€
+java:S1128"^Remove this unused import 'software.amazon.awssdk.auth.credentials.StaticCredentialsProvider'.(Ï‹Ž¹þÿÿÿÿ8ä„³Ú†1
+d
+java:S1128"BRemove this unused import 'software.amazon.awssdk.regions.Region'.(ˆà‹Äýÿÿÿÿ8ÞÆ²Ú†1
+v
+java:S1128"TRemove this unused import 'software.amazon.awssdk.services.dynamodb.DynamoDbClient'.(àÕ¿¯ÿÿÿÿÿ8ÞÆ²Ú†1
+F
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°8ÞÆ²Ú†1

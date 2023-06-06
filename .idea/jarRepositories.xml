@@ -2,9 +2,19 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="mule-public" />
+      <option name="name" value="mule-public" />
+      <option name="url" value="https://repository.mulesoft.org/nexus/content/repositories/public" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MuleRepository" />
+      <option name="name" value="MuleRepository" />
+      <option name="url" value="https://repository.mulesoft.org/nexus-ee/content/repositories/releases-ee/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />

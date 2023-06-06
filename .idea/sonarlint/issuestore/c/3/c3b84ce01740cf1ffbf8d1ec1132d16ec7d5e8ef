@@ -1,0 +1,18 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã—Ëo
+N
+java:S3416"3Update this logger to use "MovieControllers.class".(ÖùæÛøÿÿÿÿ
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Å½Œ²
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¼—¤þþÿÿÿÿ
+W
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(´€µ¬
+\
+java:S3457%"AFormat specifiers should be used instead of string concatenation.(©‚Ž¼ùÿÿÿÿ
+W
+java:S3457,"AFormat specifiers should be used instead of string concatenation.(à½â·
+\
+java:S34572"AFormat specifiers should be used instead of string concatenation.(«ü¢Âøÿÿÿÿ
+W
+java:S34578"AFormat specifiers should be used instead of string concatenation.(¯¥ÂÙ
